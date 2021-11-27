@@ -1,2 +1,2 @@
-# R----Codes
+# R-Codes
 R codes and outputs
